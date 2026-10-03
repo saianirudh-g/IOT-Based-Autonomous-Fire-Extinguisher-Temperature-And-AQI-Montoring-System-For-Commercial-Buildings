@@ -1,4 +1,4 @@
-# 🔥 IoT-Based Autonomous Fire Extinguisher, Temperature and AQI Monitoring System for Commercial Buildings
+# 🔥 IOT-Based Autonomous Fire Extinguisher, Temperature and AQI Monitoring System for Commercial Buildings
 
 ## 📌 Overview
 
