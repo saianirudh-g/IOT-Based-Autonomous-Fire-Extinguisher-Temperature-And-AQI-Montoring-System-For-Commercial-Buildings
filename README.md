@@ -35,31 +35,6 @@ The primary objective of this project is to develop an intelligent and automated
 
 ---
 
-# 🏢 Motivation
-
-Fire safety is extremely important in:
-
-- Commercial buildings
-- Shopping complexes
-- Offices
-- Educational institutions
-- Hospitals
-- Industrial facilities
-- Multi-storey buildings
-- Warehouses
-
-Traditional fire-safety systems may depend on manual intervention or isolated alarm systems.
-
-The proposed system combines:
-
-**Environmental Monitoring + Fire Detection + IoT Communication + Automatic Fire Extinguisher Control**
-
-into a single platform.
-
-This improves the possibility of detecting dangerous conditions quickly and allows building administrators to monitor several locations from a centralized dashboard.
-
----
-
 # ✨ Key Features
 
 ## 🌡️ Temperature Monitoring
